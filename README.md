@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋 and wellcome to my profile front page.
+---
+- 🌱 I'm currently learning C/C++ and more at 42 Madrid.
+- 🌱 I'm currently learning Python for Data Science through Udemy.
+- 🔭 I'm open to work.
+- 👨🏼‍🔬 I have 15+ years of experience with Microsoft Excel, developing spreadsheets.
+- 🕵🏼‍♂️ I have 15+ years of experience in Quality Assurance in the Pharmaceutical Industry.
+- 🤔 This sentence tells you something very important about me, which I will never tell you.
 
-<!--
-**JavierSusanna/JavierSusanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to roam my repositories. For sure, something there will surprise you.
 
-Here are some ideas to get you started:
+### Contact me
+---
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/fco-javier-susanna-larrauri-97702621) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javier.susa@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Github Stats  
+<div align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=javiersusanna&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiersusanna&hide_border=true&layout=compact&theme=tokyonight"  />  
+
+</div>  
